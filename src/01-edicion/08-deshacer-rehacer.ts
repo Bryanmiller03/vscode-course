@@ -9,6 +9,10 @@
 //*        Ctrl + Shift + Z
 //*
 
+function holaMundo() {
+    
+}
+
 
 //! Demo
 // function holaMundo() {
